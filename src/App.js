@@ -1,9 +1,6 @@
 import './App.css';
 import React, {useEffect, useState, useRef} from 'react';
 import axios from "axios";
-import App2 from "./App2";
-
-//import 'antd/dist/antd.css';
 
 function App() {
     const [repList, setRepList] = useState([]);
