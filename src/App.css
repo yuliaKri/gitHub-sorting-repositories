@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   box-sizing: border-box;
-  width: 60%;
+  width: 80%;
   margin: 0 auto;
   background-color: white;
 
@@ -20,8 +20,8 @@
 
 .table{
   border: solid 1px;
-  width: 100%;
   text-align: left;
+
 }
 .completed {
   text-decoration: line-through;
